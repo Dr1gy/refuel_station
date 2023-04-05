@@ -1,7 +1,7 @@
 public class les1 {
     public static void main(String[] args) {
-        double a = -99.0; // левая граница
-        double b = 7.0; // правая граница
+        double a = -100.0; // левая граница
+        double b = 100.0; // правая граница
         double eps = 0.0001; // точность
         int maxIterations = 100;
 
@@ -25,11 +25,10 @@ public class les1 {
             iteration++; // увеличиваем счетчик итераций
         }
 
-        System.out.printf("Корень функции: %.5f%n", c);
+        System.out.println(c);
     }
 
     public static double f(double x) {
         return x * x * x + x + 1;
     }
-
 }

@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f781088-4a89-4c85-8b13-d762250bae0b" name="Changes" comment="realese ver">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortedStringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/les1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/les1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Station_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Station_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/les1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/les1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N3SL8cwqJNJJkkHwMF5GIvDi7W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
